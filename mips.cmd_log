@@ -1,0 +1,34 @@
+vhdtdtfi -lib work D:/project/ise/p4plus/p4/mips.v -lang verilog -prj p4 -o mips.spl -module mips -template D:/software/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aspartan3 mips.spl D:/project/ise/p4plus/p4/mips.sym 
+vhdtdtfi -lang verilog -prj p4 -o D:/project/ise/p4plus/p4/mips.tfi -lib work D:/project/ise/p4plus/p4//mips.v -module mips -template D:/software/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 
+vhdtdtfi -lib work D:/project/ise/p4plus/p4/mips.v -lang verilog -prj p4 -o mips.spl -module mips -template D:/software/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family aspartan3 mips.spl D:/project/ise/p4plus/p4/mips.sym 
+vhdtdtfi -lang verilog -prj p4 -o D:/project/ise/p4plus/p4/mips.tfi -lib work D:/project/ise/p4plus/p4//mips.v -module mips -template D:/software/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "D:/project/ise/p4plus/p4/mips.xst" -ofn "D:/project/ise/p4plus/p4/mips.syr" 

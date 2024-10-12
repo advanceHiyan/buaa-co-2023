@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/project/ise/p4plus/p4/npc_tb_isim_beh.exe" -prj "D:/project/ise/p4plus/p4/npc_tb_beh.prj" "work.npc_tb" "work.glbl" 

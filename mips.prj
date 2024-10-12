@@ -1,0 +1,8 @@
+verilog work "NPC.v"
+verilog work "IFU.v"
+verilog work "GRF.v"
+verilog work "Ext.v"
+verilog work "DM.v"
+verilog work "Control.v"
+verilog work "ALU.v"
+verilog work "mips.v"
