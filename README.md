@@ -1,6 +1,6 @@
 # buaa-co-2023
-这是本人2023年CO个人代码
-实现了以下MIPS指令
+这是本人2023年CO个人代码。
+实现了支持以下MIPS指令的五级流水线CPU
 ```
 	wire add = (special == 6'b000000 && offest == 6'b100000) ? 1 : 0;
 	wire sub = (special == 6'b000000 && offest == 6'b100010) ? 1 : 0;
